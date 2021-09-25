@@ -27,7 +27,7 @@
 ## Why Git
 Version control! As developers our code is our livelihood so it's important that we safely store our work... frequently. Not only that, we also want to track our changes as we make them. If we make a feature that ends up breaking the rest of our app we want to be able to go back to a point when our app was last working.
 
-![](https://www.dropbox.com/s/6hefs8takl0udon/github.jpg?dl=0)
+![](https://drive.google.com/u/0/uc?id=1CcZOA2elw3jnoDbvjzxSbv-dJ2jH23yk&export=download)
 
 
 
